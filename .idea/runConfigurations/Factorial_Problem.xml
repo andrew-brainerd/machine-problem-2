@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Factorial Problem" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="factorial.Main" />
+    <module name="machine-problem-2" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
